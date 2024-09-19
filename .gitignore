@@ -1,0 +1,5 @@
+__pycache__
+env
+Detic
+tmp*
+.DS_Store
